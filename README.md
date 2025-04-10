@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ✅ Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Dishi+Gautam.;Tech+Enthusiast+🚀;Web+Developer+💻;AI+Explorer+🤖" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=550&lines=Hi%2C+I%27m+Dishi+Gautam.;Tech+Enthusiast+%F0%9F%9A%80;Web+Developer+%F0%9F%92%BB;AI+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
 
 </div>
 
