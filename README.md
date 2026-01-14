@@ -1,48 +1,66 @@
 <div align="center">
 
-<!-- ✅ Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=550&lines=Hi%2C+I%27m+Dishi+Gautam.;Tech+Enthusiast+%F0%9F%9A%80;Web+Developer+%F0%9F%92%BB;AI+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
+<a href="https://dishi-portfolio.vercel.app"><b>Visit My Portfolio</b></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dishi+Gautam;Full+Stack+Web+Developer;Tech+Enthusiast;AI+Explorer;Always+Learning" />
 
 </div>
 
 ---
 
-### 👋 About Me:
-I’m a developer passionate about building things that live on the internet.  
-I enjoy turning complex problems into simple, beautiful, and intuitive solutions.  
-Always up for learning new tech and collaborating on impactful projects.
+## About Me  
+
+I’m **Dishi Gautam**, a developer focused on building **modern, scalable, and user-centric web applications**.  
+I enjoy solving problems and transforming ideas into **clean, performant digital experiences**.
+
+- Exploring full-stack web development and AI  
+- Continuously learning modern technologies  
+- Open to collaboration and impactful projects  
+- Strong focus on UX, performance, and scalability  
 
 ---
 
-### 💻 Tech Stack:
+## Tech Stack  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
-</p>
+### Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,php,c,cpp,python&theme=dark" />
+</div>
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dishi-Gautam&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Dishi-Gautam&theme=dark&hide_border=false" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishi-Gautam&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
-</p>
+### Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,figma&theme=dark" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dishi-Gautam&label=Profile+Views&color=6A5ACD&style=flat-square" alt="Profile views" />
-</p>
+### Backend & Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark" />
+</div>
+
+---
+
+### Tools & Platforms
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,npm&theme=dark" />
+</div>
+
+---
+
+## Profile Views  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dishi-Gautam&label=Profile+Views&color=6A5ACD&style=flat-square"/>
+</div>
+
+---
+
+<div align="center">
+
+**Code. Learn. Build. Repeat.**
+
+</div>
