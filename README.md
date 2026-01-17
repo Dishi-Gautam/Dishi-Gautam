@@ -51,7 +51,11 @@ I enjoy solving problems and transforming ideas into **clean, performant digital
 </div>
 
 ---
+<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dishi-gautam&theme=tokyonight" height="150"/>
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dishi-gautam&theme=tokyonight" height="150"/>
+</div>
 ## Profile Views  
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Dishi-Gautam&label=Profile+Views&color=6A5ACD&style=flat-square"/>
